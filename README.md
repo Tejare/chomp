@@ -5,10 +5,15 @@ Also, when a cookie is eaten, all the cookies below it and to its right are eate
 To run this game, just execute the menu.java file
 
 We have included two modes in the game
+
 •	1vs1 mode
+
 o	3x3
+
 o	4x4
+
 o	40x40
+
 •	vs computer mode
 The basic idea in the vs computer is that when the computer’s turn ends, then odd number of cookies should be left on the board.
 That is, if the user eats cookies such that odd number of cookies are left on the board, then the computer should eat two cookies, the selection of which is achieved through a function called find.
