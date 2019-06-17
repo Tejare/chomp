@@ -15,6 +15,7 @@ o	4x4
 o	40x40
 
 •	vs computer mode
+
 The basic idea in the vs computer is that when the computer’s turn ends, then odd number of cookies should be left on the board.
 That is, if the user eats cookies such that odd number of cookies are left on the board, then the computer should eat two cookies, the selection of which is achieved through a function called find.
 But, if the user eats cookies in such a way that even cookies are left on the board, then the computer eats just one cookie and now it is the user’s turn.
