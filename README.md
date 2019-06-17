@@ -2,6 +2,7 @@
 Java based board game. 
 In this game, we  have to make the opponent eat the poison cookie, that is, the cookie at the top left.
 Also, when a cookie is eaten, all the cookies below it and to its right are eaten.
+
 To run this game, just execute the menu.java file
 
 We have included two modes in the game
